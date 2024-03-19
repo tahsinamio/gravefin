@@ -9,7 +9,7 @@ export default function HomePage() {
     <PageLayout layout="super-narrow">
       <Flex align="center" vertical>
         <Title level={1} style={{ marginBottom: 5 }}>
-          Welcome to Marblism 👋
+          Welcome to Marblism
         </Title>
         <Title level={5} style={{ marginTop: 0, marginBottom: 15 }}>
           {' '}
